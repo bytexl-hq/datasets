@@ -1,0 +1,8 @@
+[
+    {
+        "id": "spotify-tracks",
+        "title": "Spotify Tracks",
+        "description": "This dataset contains detailed information about various Spotify tracks. Each record represents a track with attributes such as track ID, name, genre, artists involved, album name, popularity score, duration in milliseconds, and whether the track is explicit. It provides a comprehensive view of different tracks, which can be used for various machine learning tasks like music recommendation, genre classification, and popularity prediction.",
+        "file": "spotify_tracks.csv"
+    }
+]
