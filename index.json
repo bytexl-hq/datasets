@@ -4,5 +4,23 @@
         "title": "Spotify Tracks",
         "description": "This dataset contains detailed information about various Spotify tracks. Each record represents a track with attributes such as track ID, name, genre, artists involved, album name, popularity score, duration in milliseconds, and whether the track is explicit. It provides a comprehensive view of different tracks, which can be used for various machine learning tasks like music recommendation, genre classification, and popularity prediction.",
         "file": "spotify_tracks.csv"
+    },
+    {
+        "id": "lung-cancer",
+        "title": "Lung Cancer",
+        "description": "This dataset contains information related to various factors and symptoms associated with lung cancer. Each record represents an individual's data, including demographic information, lifestyle habits, and health conditions. This dataset is valuable for studying the correlation between these factors and the presence of lung cancer, and can be used for machine learning tasks such as classification, prediction, and risk assessment.",
+        "file": "lung_cancer.csv"
+    },
+    {
+        "id": "housing",
+        "title": "Housing",
+        "description": "This dataset contains information about housing prices in various neighborhoods. Each record represents a property and includes various features related to the property and its location. This dataset is useful for studying the factors influencing housing prices and can be applied to regression tasks, price prediction, and real estate market analysis.",
+        "file": "housing.csv"
+    },
+    {
+        "id": "heart-diseases",
+        "title": "Heart Diseases",
+        "description": "This dataset contains comprehensive information about various factors related to heart diseases. Each record represents an individual's medical and lifestyle data, including demographic information, health metrics, and behaviors. This dataset is valuable for studying the correlation between these factors and the presence of heart disease, and can be used for machine learning tasks such as classification, risk prediction, and patient profiling.",
+        "file": "heart_diseases.csv"
     }
 ]
