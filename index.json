@@ -30,6 +30,9 @@
         "file": "nse-stocks.csv.zip"
     },
     {
-        "id": ""
+        "id": "titanic-passengers",
+        "title": "Titanic Passengers",
+        "description": "This dataset contains information about the passengers who were on board the RMS Titanic. Each record includes demographic and socio-economic data about the passengers, along with their survival status. This dataset is widely used for machine learning tasks such as classification, survival prediction, and exploratory data analysis.",
+        "file": "titanic-passengers.csv"
     }
 ]
