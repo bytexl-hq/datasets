@@ -22,5 +22,14 @@
         "title": "Heart Diseases",
         "description": "This dataset contains comprehensive information about various factors related to heart diseases. Each record represents an individual's medical and lifestyle data, including demographic information, health metrics, and behaviors. This dataset is valuable for studying the correlation between these factors and the presence of heart disease, and can be used for machine learning tasks such as classification, risk prediction, and patient profiling.",
         "file": "heart_diseases.csv"
+    },
+    {
+        "id": "nse-stocks",
+        "title": "NSE Stocks",
+        "description": "This dataset contains historical stock market data from the National Stock Exchange (NSE) of India. Each record represents daily trading data for various stocks, including information on open and close prices, high and low prices, trading volume, and more. This dataset is useful for financial analysis, stock price prediction, and studying market trends.",
+        "file": "nse-stocks.csv.zip"
+    },
+    {
+        "id": ""
     }
 ]
