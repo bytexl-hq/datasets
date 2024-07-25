@@ -34,5 +34,29 @@
         "title": "Titanic Passengers",
         "description": "This dataset contains information about the passengers who were on board the RMS Titanic. Each record includes demographic and socio-economic data about the passengers, along with their survival status. This dataset is widely used for machine learning tasks such as classification, survival prediction, and exploratory data analysis.",
         "file": "titanic-passengers.csv"
+    },
+    {
+        "id": "world-cup-2022",
+        "title": "World Cup 2022",
+        "description": "This dataset contains information about the 2022 FIFA World Cup teams, including their group assignments and FIFA rankings. Each record represents a team, providing data on the group's name, the team's name, and its FIFA ranking. This dataset is useful for analyzing team performance, group dynamics, and making predictions for the tournament.",
+        "file": "world_cup_2022.csv"
+    },
+    {
+        "id": "brisbane-water-quality",
+        "title": "Brisbane Water Quality",
+        "description": "This dataset contains information about water quality measurements in Brisbane. Each record includes data on various water quality parameters such as pH, turbidity, and contaminant levels, collected from different locations over time. This dataset is valuable for environmental analysis, monitoring water quality trends, and assessing the impact of environmental policies.",
+        "file": "brisbane_water_quality.csv"
+    },
+    {
+        "id": "coffee-sales",
+        "title": "Coffee Sales",
+        "description": "This dataset contains information about coffee sales transactions. Each record includes details such as the date and time of the transaction, payment type, transaction ID, amount of money spent, and the type of coffee purchased. This dataset is useful for analyzing sales patterns, customer preferences, and revenue trends in the coffee business.",
+        "file": "coffee_sales.csv"
+    },
+    {
+        "id": "disney-plus-titles",
+        "title": "Disney Plus Titles",
+        "description": "This dataset contains information about titles available on Disney Plus. Each record includes details such as show ID, type (movie or TV show), title, director, cast, country, date added to the platform, release year, rating, duration, genres, and a brief description. This dataset is useful for analyzing the content library of Disney Plus, exploring trends in genres and ratings, and studying the availability of content across different countries.",
+        "file": "disney_plus_titles.csv"
     }
 ]
