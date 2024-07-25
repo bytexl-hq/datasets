@@ -58,5 +58,17 @@
         "title": "Disney Plus Titles",
         "description": "This dataset contains information about titles available on Disney Plus. Each record includes details such as show ID, type (movie or TV show), title, director, cast, country, date added to the platform, release year, rating, duration, genres, and a brief description. This dataset is useful for analyzing the content library of Disney Plus, exploring trends in genres and ratings, and studying the availability of content across different countries.",
         "file": "disney_plus_titles.csv"
+    },
+    {
+        "id": "imdb-top-1000",
+        "title": "IMDB Top 1000 Movies",
+        "description": "This dataset contains information about the top 1000 movies as rated on IMDB. Each record includes details such as the movie title, director, cast, country, release year, genre, duration, and IMDB rating. This dataset is useful for analyzing the characteristics of top-rated movies, exploring trends in genres, and studying the impact of different directors and actors on movie ratings.",
+        "file": "imdb_top_1000.csv"
+    },
+    {
+        "id": "laptop-prices",
+        "title": "Laptop Prices",
+        "description": "This dataset contains information about various laptops and their prices. Each record includes details such as the brand, model, processor type, RAM size, storage capacity, screen size, operating system, and price. This dataset is useful for analyzing trends in laptop specifications and prices, comparing different brands and models, and studying the impact of various features on the pricing of laptops.",
+        "file": "laptop_prices.csv"
     }
 ]
