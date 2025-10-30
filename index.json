@@ -54,6 +54,12 @@
         "file": "coffee_sales.csv"
     },
     {
+    "id": "bbc-news-classification",
+    "title": "BBC News Classification",
+    "description": "This dataset contains news articles from the BBC, each labelled with one of five categories (business, entertainment, politics, sport, tech). It is divided into a training set and a test set, and is intended for building and evaluating document classification models. :contentReference[oaicite:1]{index=1}",
+    "file": ["bbc-news-classification.csv"]
+   },
+    {
         "id": "disney-plus-titles",
         "title": "Disney Plus Titles",
         "description": "This dataset contains information about titles available on Disney Plus. Each record includes details such as show ID, type (movie or TV show), title, director, cast, country, date added to the platform, release year, rating, duration, genres, and a brief description. This dataset is useful for analyzing the content library of Disney Plus, exploring trends in genres and ratings, and studying the availability of content across different countries.",
