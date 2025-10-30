@@ -57,7 +57,7 @@
     "id": "bbc-news-classification",
     "title": "BBC News Classification",
     "description": "This dataset contains news articles from the BBC, each labelled with one of five categories (business, entertainment, politics, sport, tech). It is divided into a training set and a test set, and is intended for building and evaluating document classification models. :contentReference[oaicite:1]{index=1}",
-    "file": ["bbc-news-classification.csv"]
+    "file": "bbc-news-classification.csv"
    },
     {
         "id": "disney-plus-titles",
